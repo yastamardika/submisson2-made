@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="title">Judul Film</string>
+    <string name="releasedate">16 Januari 2020</string>
+    <string name="deskripsi_film">deskripsi film</string>
+    <string name="sutradara">Joko</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="release_date">tanggal rilis</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tab_1">Film </string>
+    <string name="tab_2">Tayangan TV</string>
+    <string name="content_tab_1">Selamat Datang</string>
+    <string name="content_tab_2">Tayangan TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string-array name="data_name">
+        <item>Sebuah Bintang</item>
+        <item>Manusia Laba-Laba</item>
+        <item>Lelaki Air</item>
+        <item>Avenger : Infinity War</item>
+        <item>Kolam Mati</item>
+        <item>DragonBall</item>
+        <item>Robin Hood</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+        <item>Themule</item>
+    </string-array>
+
+    <string-array name="tv_show">
+        <item>Rick dan Morty</item>
+        <item>Para Simpsons</item>
+        <item>13 Alasan Kenapa </item>
+        <item>The Hitchhiker\'s Panduan Menuju Galaxy</item>
+        <item>Teman Keluarga</item>
+        <item>Circus Terbang Monty Python </item>
+        <item>Para Pahlawan</item>
+        <item>Glee </item>
+        <item>Transformers: Sang Kepala Sekolah</item>
+        <item>Lembah Silicon</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan.</item>
+        <item>Miles Morales sedang berada pada kebingungan antara kehidupannya di sekolah dan saat menjadi manusia laba laba. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Pada suatu tempat dimana peradaban tercanggih di bumi berada, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. </item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. </item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died.</item>
+        <item>When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man\'s sword to his family in Nottingham. There, he assumes Robert\'s identity; romances his widow, Marion; </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect…</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee
+        </item>
+    </string-array>
+
+    <string-array name="tv_show_description">
+        <item>Rick kurang stabil mentalnya tetapi lelaki tua berbakat secara ilmiah yang baru-baru ini terhubung kembali dengan keluarganya. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. </item>
+        <item>Terletak di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual.</item>
+        <item>Setelah seorang gadis remaja yang bunuh diri, seorang teman sekelas menerima serangkaian kaset yang mengungkap misteri pilihan tragisnya.</item>
+        <item>Jangan Panik! Kisah Arthur Dent, seorang Inggris rata-rata yang hidupnya disisakan oleh temannya, yang ternyata alien, sementara planet Bumi dihancurkan. Temannya memberi tahu dia tentang Panduan Hitchhiker untuk Galaxy, panduan dengan apa pun yang Anda butuhkan, dan ingin tahu.</item>
+        <item>Seri animasi manis, Freakin, Twisted, salah secara politis dan Freakin menampilkan petualangan keluarga Griffin yang disfungsional.</item>
+        <item>Serial komedi sketsa Inggris dengan pertunjukan yang terdiri dari surreality, agak bersifat cabul atau sarat humor, lelucon lelucon dan sketsa observasional tanpa saluran berita.</item>
+        <item>Orang awam menemukan bahwa mereka memiliki kekuatan super. Kehidupan mereka saling terkait sebagai peristiwa yang menghancurkan harus dicegah.</item>
+        <item>Dalam komedi musikal ini, guru sekolah menengah optimis Will Schuester mencoba untuk mengisi kembali gairahnya sendiri sambil menciptakan kembali klub gembira sekolah menengah dan menantang sekelompok orang buangan untuk menyadari potensi bintang mereka ketika mereka berusaha untuk mengungguli kompetisi menyanyi mereka sambil menavigasi kejam. aula dari McKinley High.</item>
+        <item>Mengikuti The Return of Optimus Prime (dan menggantikan The Rebirth), The Headmasters adalah franchise Transformers eksklusif pertama Jepang.</item>
+        <item>Dalam demam emas berteknologi tinggi di Lembah Silikon modern, orang-orang yang paling memenuhi syarat untuk berhasil adalah yang paling tidak mampu menangani kesuksesan.</item>
+    </string-array>
+
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_themule</item>
+    </array>
+
+    <array name="tv_show_photo">
+        <item>@drawable/poster_rick</item>
+        <item>@drawable/poster_thesimpsons</item>
+        <item>@drawable/poster_13rw</item>
+        <item>@drawable/poster_hitchiker</item>
+        <item>@drawable/poster_famguy</item>
+        <item>@drawable/poster_monty</item>
+        <item>@drawable/poster_heroes</item>
+        <item>@drawable/poster_glee</item>
+        <item>@drawable/poster_transformer</item>
+        <item>@drawable/silicon_valley</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

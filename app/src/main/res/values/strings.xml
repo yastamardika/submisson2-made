@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="title">Movie Title</string>
+    <string name="releasedate">January 16 2020</string>
+    <string name="deskripsi_film">Movie Description</string>
+    <string name="sutradara">Joko</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="release_date">Release Date</string>
+    <string name="deskripsi">Description</string>
+    <string name="tab_1">Movie</string>
+    <string name="tab_2">TV Show</string>
+    <string name="content_tab_1">Welcome Movie</string>
+    <string name="content_tab_2">Tv Show</string>
+    <string name="change_language_settings">Change Languange Settings</string>
+
+    <string-array name="data_name">
+        <item>A Star</item>
+        <item>Spiderman</item>
+        <item>Aquaman</item>
+        <item>Avenger : Infinity War</item>
+        <item>Deadpool </item>
+        <item>DragonBall</item>
+        <item>Robin Hood</item>
+        <item>Bumblebee</item>
+        <item>Venom</item>
+        <item>Themule</item>
+    </string-array>
+
+    <string-array name="tv_show">
+        <item>Rick and Morty</item>
+        <item>The Simpsons</item>
+        <item>13 Reasons Why </item>
+        <item>The Hitchhiker\'s Guide to the Galaxy</item>
+        <item>Family Guy</item>
+        <item>Monty Python\'s Flying Circus </item>
+        <item>Heroes</item>
+        <item>Glee </item>
+        <item>Transformers: The Headmasters</item>
+        <item>Silicon Valley</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. </item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. </item>
+        <item>Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boy\'s life.</item>
+        <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died.</item>
+        <item>When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man\'s sword to his family in Nottingham. There, he assumes Robert\'s identity; romances his widow, Marion; </item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect…</item>
+        <item>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee
+        </item>
+    </string-array>
+
+    <string-array name="tv_show_description">
+        <item>Rick is a mentally-unbalanced but scientifically-gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. </item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. </item>
+        <item>After a teenage girl\'s perplexing suicide, a classmate receives a series of tapes that unravel the mystery of her tragic choice.</item>
+        <item>Don\'t Panic! The story of Arthur Dent, an average Englishman who life was spared by his friend, who turned out to be an alien, while the planet Earth is destroyed. His friend tells him about the Hitchhiker\'s Guide to the Galaxy, a guide with anything you ever needed, and wanted to know. </item>
+        <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family.</item>
+        <item>A British sketch comedy series with the shows being composed of surreality, risqué or innuendo-laden humour, sight gags and observational sketches without punchlines.</item>
+        <item>Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.</item>
+        <item>In this musical comedy, optimistic high school teacher Will Schuester tries to refuel his own passion while reinventing the high school\'s glee club and challenging a group of outcasts to realize their star potential as they strive to outshine their singing competition while navigating the cruel halls of McKinley High.</item>
+        <item>Following on The Return of Optimus Prime (and in place of The Rebirth), The Headmasters is the first Japanese-exclusive Transformers franchise.</item>
+        <item>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_themule</item>
+    </array>
+
+
+    <array name="tv_show_photo">
+        <item>@drawable/poster_rick</item>
+        <item>@drawable/poster_thesimpsons</item>
+        <item>@drawable/poster_13rw</item>
+        <item>@drawable/poster_hitchiker</item>
+        <item>@drawable/poster_famguy</item>
+        <item>@drawable/poster_monty</item>
+        <item>@drawable/poster_heroes</item>
+        <item>@drawable/poster_glee</item>
+        <item>@drawable/poster_transformer</item>
+        <item>@drawable/silicon_valley</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
